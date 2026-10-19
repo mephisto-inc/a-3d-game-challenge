@@ -147,3 +147,9 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Others
+.idea/
+dist/
+tests/perf/debug/
+tests/perf/results/
