@@ -35,8 +35,8 @@ A 3D browser arena shooter built for the JetBrains Academy **Build Your Game** c
 
 ```bash
 # 1. Get the code
-git clone https://github.com/mephisto-inc/playground.git
-cd playground/jetbrains-academy/3d-game-challenge
+git clone https://github.com/mephisto-inc/a-3d-game-challenge.git
+cd a-3d-game-challenge
 
 # 2. Install the dependencies
 npm install
